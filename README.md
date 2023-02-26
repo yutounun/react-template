@@ -5,22 +5,25 @@ This is the react application. We haven't decided what we're gonna make yet.
 ## How to start contributing
 
 ### clone this repo
+
 ```sh
 cd <YourFavoriteDirectory>
-git clone https://github.com/yutounun/awesome-app.git
+git clone https://github.com/yutounun/react-template.git
 ```
 
 ### Install remote extentions
-Install ```ms-vscode-remote.remote-containers``` to start using devcontainer environment.
+
+Install `ms-vscode-remote.remote-containers` to start using devcontainer environment.
 
 ### Install Docker
+
 Install Docker from [here](https://docs.docker.com/desktop/install/mac-install/).
 
 ### Dive into devcontainer environment!!
-Once you install everything you need, press ```cmd+shift+p``` and ```Dev Containers: Open folder in container```.
+
+Once you install everything you need, press `cmd+shift+p` and `Dev Containers: Open folder in container`.
 
 It should take a while for the first time, but it'll be shorter from second time. Be patient plz :D
-
 
 ## Available Scripts
 
@@ -58,31 +61,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## App Candidate
-- [ ] A similar App with Walica
-- [ ] Food Tracker
-
-## Tech Stacks
-- [x] devcontainer
-- [ ] supabase
-- [x] React
-- [x] Testing Library
-- [x] CI
-- [ ] CD
-- [ ] Figma
-- [ ] Copilot
-- [ ] StopLight
-- [x] StoryBook
-- [ ] MUI
-- [ ] Atomic Design
-- [ ] PWA
-- [ ] Strict TypeScript
-
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-## Must-read articles
-- [envfiles settings](https://create-react-app.dev/docs/adding-custom-environment-variables/1)
